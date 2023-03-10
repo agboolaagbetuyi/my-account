@@ -1,0 +1,33 @@
+/* * {box-sizing: border-box} */
+
+.main_body{
+    height: 100vh;
+    width: 100%;
+    background: url(/images\ 2.jfif)
+    
+}
+.mailer{ 
+    width: 200px;
+    display: flex;
+    height: 30px;
+    /* background-color: blue; */
+   
+}
+/* .mailer1{ width: 50px;
+   
+    display:inline-block;
+    background-color: #f44336;
+}
+.mailer2{ width: 140px;
+    display: flex; background-color: aqua;} */
+
+/* button{ display: flex;
+    height: 30px;
+    width: 30px;
+} */
+
+
+
+
+
+

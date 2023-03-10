@@ -1,0 +1,29 @@
+.main_body{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background: url(./ola.png);
+    
+}
+
+.coholders_container{
+margin-top: 30px;}
+   
+
+.mailer{ 
+    height: 40px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    
+}
+.holder{ height: 40px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    background-color: lightgrey;
+    border-radius: 5PX;
+
+}
